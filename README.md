@@ -1,16 +1,76 @@
-# React + Vite
+# CareerBridge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Internship & Career Management Platform**
 
-Currently, two official plugins are available:
+CareerBridge is a React-based frontend project designed to help students explore internship opportunities and manage their career journey.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Responsive landing page
+- Internship search and category filtering
+- Save/bookmark internships
+- Student registration and login demo
+- Student dashboard
+- Profile information display
+- Responsive navigation
+- Contact form UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- JavaScript
+- Tailwind CSS
+- React Router DOM
+- Lucide React
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Go to the project directory:
+
+```bash
+cd CareerBridge
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build the project:
+
+```bash
+npm run build
+```
+
+## Demo Limitations
+
+- Internship listings and statistics are sample data.
+- Authentication uses browser localStorage and is not production-secure.
+- The contact form is a frontend demonstration and does not send emails.
+- No backend or database is connected yet.
+
+## Project Status
+
+Frontend demonstration project.
+
+## Author
+
+Sumaiya Akter shati
+
+## License
+
+This project is created for educational and portfolio purposes.
