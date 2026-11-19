@@ -29,7 +29,7 @@ CareerBridge is a React-based frontend project designed to help students explore
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/SumaiyaSathi25/CareerBridge
 ```
 
 Go to the project directory:
